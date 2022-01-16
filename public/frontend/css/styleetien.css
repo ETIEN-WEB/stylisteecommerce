@@ -1,0 +1,396 @@
+.all-notify {
+    position: fixed;
+    width: 100%;
+    height: 60px;
+    background-color: #1ca13b;
+    z-index: 9999;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Arial,sans-serif;
+}
+
+
+
+.form-check {
+    margin-bottom: 1.8rem;
+}
+
+.form-check .form-check-label {
+margin-bottom: 0.4rem;
+color: black;
+font-family: "Open Sans",sans-serif;
+font-size: 1.4rem;
+font-weight: 400;
+
+}
+
+.xp{
+    position: absolute;
+    right: 1px;
+    top: 10px;
+}
+
+.mr22
+{
+    margin-right: 22px;
+}
+
+.mr22 .dropdown-item{
+    font-size: 15px;
+    padding: 0.8rem 1.5rem;
+}
+.userinfo .ml-15
+{
+    margin-left: -15px;
+}
+.userinfo .card-header {
+    display: flex;
+}
+
+.userinfo .card-header .cl_blue {
+    color: blue;
+}
+
+.userinfo .card-body .mb_9{
+    margin-bottom: 8px;
+}
+
+.progress
+{
+    margin-top: 2rem;
+    height: 2rem;
+}
+
+.btnAdresses .btnadd {
+    padding: 10px;
+    border-radius: 4px !important;
+    font-weight: bold;
+    max-height: 40px;
+    font-size: 15px;
+
+}
+
+.cl_blk {
+    color: black !important;
+}
+
+#FormAddAdress .custom-control{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.updaticon .styl_orange {
+    color: orange;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.updaticon .styl_red {
+    color: red;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.bootbox-body {
+    font-size: 28px;
+    color: red;
+}
+.flash_notify
+{
+    position: fixed;
+    width: 100%;
+    height: 70px;
+    background-color: #1ca13b;
+    z-index: 9999;
+    color: white;
+    text-align: center;
+    
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Arial,sans-serif;
+}
+
+.flash_notify .flash_type{
+    font-size: 25px;
+}
+.flash_notify .flash_msg{
+    font-size: 20px;
+}
+
+.mb_28
+{
+    margin-bottom: 28px;
+}
+
+.mtb10lr0{
+    margin: 10px auto !important;
+}
+
+.mbt24
+{
+    margin-bottom: 33px;
+}
+.mb_24
+{
+    margin-top: 25px !important;
+}
+
+form .mb_10 {
+    margin-bottom: 10px !important;
+    margin-top: 30px !important;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.mb_12 {
+    margin-bottom: 12px;
+}
+
+.product-default .imghegt {
+    height: 180px;
+    display: flex;
+}
+
+.product-default figure img{
+    height: 100%;
+    margin: auto;
+    overflow: hidden;
+    object-fit: contain;
+}
+
+.product-details .iconify {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.info-boxes-container .prodlist {
+    border-radius: 6px 6px 0px 0px ;
+    background:#FEE2CC;
+}
+.bordwhite
+{
+    border: 0px solid #e7e7e7 !important;
+}
+
+.prodlist p{
+    margin: 8px 5px;
+    font-size: 18px;
+    color: black;
+}
+
+.mb-1{
+    margin-bottom: 0.8rem !important;
+}
+
+.icon-minus, .icon-plus {
+    color: black;
+}
+.adqty{
+    position: absolute;
+bottom: 13.6rem;
+padding: 0 5px;
+border: 1px solid;
+border-radius: 50%;
+cursor: pointer;
+}
+.mb_8
+{
+    margin-top: 8px;
+}
+.checkout-container .checkout-steps
+{
+    padding: 10px;
+    border: 2px solid #e7e7e7;
+}
+.mt10
+{
+    margin-top: 15px;
+}
+.table-mini-cart .product-col
+{
+    display: block ruby;
+}
+
+.table-mini-cart .product-col img{
+    margin-right: 7px;
+}
+table .table-mini-cart
+{ 
+    border-collapse: inherit !important;
+}
+.tx_al_lft
+{
+    text-align: left !important;
+}
+.mb1rm
+{
+    margin-bottom: 1rem !important;
+}
+.ml-8{
+    margin-left: -8%;
+}
+.mb5{
+    margin-bottom: 5px !important;
+}
+.order-summary .mb10
+{
+    margin-bottom: 10px;
+    border-bottom: 1px solid #e7e7e7;
+}
+.cl_or {
+    color: orange !important;
+}
+.cl_or {
+    color: rgb(255, 102, 0);
+}
+.cl_black {
+    color: black !important;
+}
+
+.table .detailcmd
+{
+    display: inline-block;
+    height: 80px !important;
+    width: 80px !important;
+}
+.evaluation .texte {
+    font-size: 18px;
+    
+}
+
+.evaluation .contour_note {
+    padding: 13px;
+    background-color: #f5f5f5;
+    align-items: center;
+    text-align: center;
+    border-radius: 4px;
+    margin-top: 16px;
+}
+.evaluation .note {
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 5px;
+    color: black;
+}
+.evaluation .etoile {
+    letter-spacing: 8px;
+    margin-bottom: 10px;
+}
+
+.evaluation .etoile.espace .fa-stack {
+    width: 19px !important;
+}
+
+.evaluation .stat {
+    font-size: 17px;
+}
+.evaluation .contour_each_note ul {
+    margin-top: 23px;
+}
+.evaluation .contour_each_note ul li {
+    align-items: center;
+    display: flex;
+}
+.evaluation .toil {
+    padding: 0 12px !important;
+}
+
+.evaluation .gynbr {
+    width: 50px !important;
+}
+
+.evaluation .contour_each_note ul li .meter {
+    /*background-image: linear-gradient(to right,#f6b01e 48.292682926829265%,#ededed 48.292682926829265%); */
+    width: 100%;
+    border-radius: 4px;
+    background-position: left;
+    content: '';
+    height: 9px;
+    margin-left: 16px;
+  }
+
+.evaluation .fa.fa-star.fa-stack-1x {
+    color: #e74c3c;
+}
+.ratings-container .etoile {
+    margin-bottom: 0px;
+  }
+
+.contour_commentaire .titre{
+    margin: 18px 0;
+    color: black;
+
+}
+.verification{
+    float: right;
+    margin-top: -38px;
+}
+h5.text-green{
+    color: green;
+}
+
+.evaluation .contour_commentaire{
+    padding-top: 8px;
+}
+
+.secondmegamenu{
+    display: none;
+    left: 90%;
+    position: absolute !important;
+    top: -198% !important;
+}
+
+.firstmegamenu{
+    display: none;
+    left: 90%;
+    position: absolute !important;
+    top: -300% !important;
+}
+
+.forthmegamenu{
+    display: none;
+    left: 90%;
+    position: absolute !important;
+    top: -404% !important;
+}
+
+.fivemegamenu{
+    display: none;
+    left: 90%;
+    position: absolute !important;
+    top: -306% !important;
+}
+.sixmegamenu{
+    display: none;
+    left: 90%;
+    position: absolute !important;
+    top: -308% !important;
+}
+
+.sevenmegamenu{
+    display: none;
+    left: 90%;
+    position: absolute !important;
+    top: -326% !important;
+}
+.heightmegamenu{
+    display: none;
+    left: 90%;
+    position: absolute !important;
+    top: -338% !important;
+}
+
+ul.menu-vertical .iconify{
+    font-size: 20px;
+    margin-right: 5px;
+}
+
+.categorie_icon
+{
+    height: 15px;
+    width: 8px;
+
+}
